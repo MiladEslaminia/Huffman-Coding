@@ -1,5 +1,5 @@
 %% this function is for coding with shannon&fanno model.
-% this program is ok
+
 function s_p=shannonfano(p,s) %#ok<STOUT>
 u=length(p);
 %s=1:u; %symbols
