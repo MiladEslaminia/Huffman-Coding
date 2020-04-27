@@ -1,4 +1,4 @@
-%hoffman coding
+%huffman coding
 s=[1/16 2/16 4/16 2/16 3/16 1/16 2/16 1/16];
 prob=s;
 syms s1 s2 s3 s4 s5 s6 s7 s8;
