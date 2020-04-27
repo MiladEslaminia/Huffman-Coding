@@ -1,7 +1,7 @@
-%% in this program we genrate an array with hufman symbols and binary symbols
-%out=hufman array   outb=binary array   outs=symbolic array 
+%% in this program we genrate an array with huffman symbols and binary symbols
+%out=huffman array   outb=binary array   outs=symbolic array 
 %outbb=regenerated symbolic array
-%program is complete 
+
 clear; 
 clc;
 s1b=[0 0 0];s2b=[0 0 1];s3b=[0 1 0];s4b=[0 1 1];
